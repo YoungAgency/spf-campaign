@@ -3569,7 +3569,7 @@
   }
 
   .loghi-36px-copy {
-    margin-left: -2px;
+    margin-left: 0;
   }
 
   .immagine-mobile {
@@ -3587,6 +3587,7 @@
 
   .bitcoin-growth-copy-container-2-copy {
     padding-bottom: 24px;
+    padding-left: 32px;
   }
 
   .testo-sezione-copy {
